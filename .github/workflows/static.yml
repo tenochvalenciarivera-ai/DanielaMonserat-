@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Efectos secundarios irreversibles por el consumo de cristal</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #fff5f5;
+        }
+
+        header {
+            background-color: #8b0000;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #b22222;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #ffcccc;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 3px 6px rgba(139,0,0,0.2);
+            border-left: 5px solid #8b0000;
+        }
+
+        h2 {
+            color: #8b0000;
+        }
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+            border: 2px solid #b22222;
+        }
+
+        ul {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #8b0000;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Efectos secundarios irreversibles por el consumo de cristal</h1>
+    <p>Preparatoria No. 130, Tenango del Aire</p>
+    <p>Alumna: Daniela Monserat</p>
+    <p style="color:#ffcccc;">⚠️ Tema de concientización sobre salud y adicciones</p>
+</header>
+
+<nav>
+    <a href="#concepto">Concepto</a>
+    <a href="#historia">Historia</a>
+    <a href="#objetivos">Objetivos</a>
+    <a href="#clasificacion">Clasificación</a>
+    <a href="#ventajas">Ventajas</a>
+    <a href="#desventajas">Desventajas</a>
+    <a href="#conclusion">Conclusión</a>
+</nav>
+
+<div class="container">
+
+    <section id="concepto">
+        <h2>Conceptualización</h2>
+        <p>
+            El cristal, también conocido como metanfetamina, es una droga sintética altamente adictiva
+            que afecta el sistema nervioso central. Su consumo puede provocar daños irreversibles en el cerebro,
+            alteraciones emocionales y deterioro físico severo (NIDA, 2020).
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Methamphetamine.jpg">
+    </section>
+
+    <section id="historia">
+        <h2>Antecedentes históricos</h2>
+        <p>
+            La metanfetamina fue desarrollada en el siglo XX con fines médicos, pero durante la Segunda Guerra Mundial
+            se utilizó para aumentar la resistencia de los soldados. Con el tiempo, su uso se volvió ilegal debido a sus efectos dañinos (UNODC, 2021).
+        </p>
+    </section>
+
+    <section id="objetivos">
+        <h2>Objetivo general</h2>
+        <p>
+            Analizar los efectos secundarios irreversibles del consumo de cristal en la salud humana.
+        </p>
+
+        <h3>Objetivos específicos</h3>
+        <ul>
+            <li>Identificar los daños neurológicos.</li>
+            <li>Describir consecuencias físicas permanentes.</li>
+            <li>Concientizar a los jóvenes sobre los riesgos.</li>
+        </ul>
+    </section>
+
+    <section id="clasificacion">
+        <h2>Clasificación del tema</h2>
+        <p>
+            Este tema pertenece al área de salud, específicamente en adicciones y salud pública.
+        </p>
+    </section>
+
+    <section id="ventajas">
+        <h2>Ventajas (aparentes)</h2>
+        <ul>
+            <li>Euforia momentánea.</li>
+            <li>Aumento de energía.</li>
+            <li>Mayor estado de alerta.</li>
+        </ul>
+    </section>
+
+    <section id="desventajas">
+        <h2>Desventajas (reales)</h2>
+        <ul>
+            <li>Daño cerebral irreversible.</li>
+            <li>Pérdida de memoria.</li>
+            <li>Deterioro físico severo.</li>
+            <li>Adicción extrema.</li>
+            <li>Problemas cardíacos graves.</li>
+        </ul>
+        <img src="cerebro.jpg" alt="Daño cerebral por consumo de cristal">
+    </section>
+
+    <section id="conclusion">
+        <h2>Conclusión</h2>
+        <p>
+            En mi opinión, el consumo de cristal representa un grave problema social y de salud.
+            Aunque puede parecer atractivo, las consecuencias son permanentes y pueden afectar toda la vida.
+        </p>
+    </section>
+
+    <section>
+        <h2>Bibliografía (APA)</h2>
+        <p>National Institute on Drug Abuse. (2020). Methamphetamine Research Report.</p>
+        <p>United Nations Office on Drugs and Crime. (2021). World Drug Report.</p>
+        <p>Secretaría de Salud. (2022). Prevención de adicciones.</p>
+    </section>
+
+</div>
+
+<footer>
+    <p>Proyecto escolar - Preparatoria No. 130</p>
+</footer>
+
+</body>
+</html>
